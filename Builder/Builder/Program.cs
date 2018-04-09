@@ -14,6 +14,7 @@ namespace Builder
             BattleBuilder battle = new BattleBuilder(rob);
             RobotDirector robot = new RobotDirector(battle);
             robot.Construct();
+            robot.Construct();
             
             Console.WriteLine(rob.Head.ToString());
             Console.ReadKey();
