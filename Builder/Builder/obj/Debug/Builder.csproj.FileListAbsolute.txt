@@ -1,0 +1,7 @@
+c:\users\morten\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+c:\users\morten\source\repos\Builder\Builder\bin\Debug\Builder.exe
+c:\users\morten\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+c:\users\morten\source\repos\Builder\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+c:\users\morten\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+c:\users\morten\source\repos\Builder\Builder\obj\Debug\Builder.exe
+c:\users\morten\source\repos\Builder\Builder\obj\Debug\Builder.pdb
